@@ -1,0 +1,4 @@
+.idea
+__pycache__
+glove.42B.300d.txt
+test_word2vec.txt

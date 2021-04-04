@@ -1,0 +1,2 @@
+epcoh:1  idx:0   loss:0.693632epcoh:1  idx:0   loss:0.703132 
+epcoh:1  idx:0   loss:0.693338 
